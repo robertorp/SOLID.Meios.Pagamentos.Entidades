@@ -1,0 +1,1 @@
+# SOLID.Meios.Pagamentos.Entidades
